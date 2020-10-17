@@ -1,6 +1,6 @@
 # Correlations between Age/Income and Health Risks
 
-![Newsroom](https://media.giphy.com/media/4FQMuOKR6zQRO/giphy.gif)
+![dynamic_scatter_plot](/assets/data/dynamic_plot.gif)
 
 ## Background on data
 The data set presented here is based on 2014 American Community Survey 1-year estimates from the [US Census Bureau](https://data.census.gov/cedsci/). It includes data on rates of Household Income (median), Obesity (%), Poverty (%), Age (median), Smoking population (%), and Healthcare lacking population (%) by state. 
@@ -13,5 +13,5 @@ The user is able to hover over the individial circles and obtain the true data.
 
 * Note: You'll need to use `python -m http.server` to run the visualization. This will host the page at `localhost:8000` in your web browser. 
 
-![](/assets/data/dynamic_plot.gif)
+
 
